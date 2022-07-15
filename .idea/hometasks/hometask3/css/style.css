@@ -1,0 +1,19 @@
+@font-face{
+    font-family: 'Roboto';
+    src:url(../fonts/Roboto-Black.ttf);
+}
+h1 {
+    font-family: 'Roboto';
+    font-size: 50px;
+}
+body {
+    background-image: url(../aseats/bg.jpg);
+}
+b {
+    font-size: 25px;
+}
+h2 {
+    font-family: 'Roboto';
+    font-size: 30px;
+
+}
